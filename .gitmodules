@@ -2,11 +2,11 @@
     path = crawler
     url = https://github.com/sduvdev/crawler.git
 [submodule "rest-api"]
-    path = rest-api
-    url = https://github.com/sduvdev/rest-api.git
+	path = rest-api
+	url = https://github.com/sduvdev/rest-api.git
 [submodule "database"]
-    path = database
-    url = https://github.com/sduvdev/database.git
+	path = database
+	url = https://github.com/sduvdev/database.git
 [submodule "client"]
-    path = client
-    url = https://github.com/sduvdev/client.git
+	path = client
+	url = https://github.com/sduvdev/client.git
