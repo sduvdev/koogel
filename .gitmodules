@@ -1,6 +1,6 @@
 [submodule "crawler"]
-    path = crawler
-    url = https://github.com/sduvdev/crawler.git
+	path = crawler
+	url = https://github.com/sduvdev/crawler.git
 [submodule "rest-api"]
 	path = rest-api
 	url = https://github.com/sduvdev/rest-api.git
